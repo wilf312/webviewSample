@@ -29,3 +29,7 @@ webviewSample/sysinfo.txt
 # Builds
 webviewSample/*.apk
 webviewSample/*.unitypackage
+
+
+
+plugin/*
